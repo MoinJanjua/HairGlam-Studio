@@ -1,6 +1,7 @@
 # HairGlam Studio
 
-[![HairGlam Studio on the App Store](https://link-to-your-app-icon.com)](https://apps.apple.com/us/app/hairglam-studio/id6736739330)
+[![HairGlam Studio on the App Store](https://github.com/MoinJanjua/HairGlam-Studio/blob/main/1.png)](https://apps.apple.com/us/app/hairglam-studio/id6736739330)
+[![HairGlam Studio on the App Store](https://github.com/MoinJanjua/HairGlam-Studio/blob/main/3.png)](https://apps.apple.com/us/app/hairglam-studio/id6736739330)
 
 Transform your hair game with **HairGlam Studio**! Discover the latest and most stylish hair trends, whether you're looking for a sophisticated classic look or a bold modern style. Our app offers a comprehensive library of hairstyle images to inspire your next look.
 
